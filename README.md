@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VivianaGG
-- 👀 I’m interested in data science projects and web applications
-- 🌱 I’m currently learning JavaScript and Django
+- 👀 I’m interested in a software developer
+- 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me vggonzalezviviana@gmail.com
 
